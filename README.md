@@ -1,0 +1,2 @@
+### 👋 Hi, I’m @AbsolutelyNotConspicuous
+A FOSS developer in my free time, I currently am an A Level Computer Science student in Southern England, This is my alternative account to store my more hobbyist projects. I love to program as I like to be able to problem solve and create high quality content that is complete. Here you'll see my experiments and full projects. Perhaps even new ideas implemented to the full extent. 
