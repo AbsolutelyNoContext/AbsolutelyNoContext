@@ -34,7 +34,7 @@ A FOSS developer in my free time, I am an A Level Computer Science student in So
 
 ### 🏷 Where To Tag Me.
  - <a href='mailto:dominic.parry@hotmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/Email-100000?style=flat&logo=gmail&logoColor=FFFFFF&labelColor=11111b&color=11111b'/></a>
- - <a href='https://discordapp.com/users/991791436662046800' target="_blank"><img alt='discord' src='https://img.shields.io/badge/Discord-100000?style=flat&logo=discord&logoColor=FFFFFF&labelColor=5865F2&color=5865F2'/></a>
+ - <a href='https://discord.com/users/991791436662046800' target="_blank"><img alt='discord' src='https://img.shields.io/badge/Discord-100000?style=flat&logo=discord&logoColor=FFFFFF&labelColor=5865F2&color=5865F2'/></a>
 ---
 
 <picture >
