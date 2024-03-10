@@ -6,10 +6,10 @@
   />
   <source
     height=50 
-    srcset="https://capsule-render.vercel.app/api?type=transparent&height=50&color=8A88FF&text=👋%20Hi%2C%20I’m%20@AbsolutelyNotConspicuous.&reversal=false&animation=fadeIn&section=header&fontSize=25&fontColor=11111B"
+    srcset="https://capsule-render.vercel.app/api?type=transparent&height=50&color=8A88FF&text=👋%20Hi%2C%20I’m%20@AbsolutelyNotConspicuous.&reversal=false&animation=fadeIn&section=header&fontSize=25&fontColor=11111B&fontAlign=27"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=50 src="https://capsule-render.vercel.app/api?type=transparent&height=50&color=8A88FF&text=👋%20Hi%2C%20I’m%20@AbsolutelyNotConspicuous.&reversal=false&animation=fadeIn&section=header&fontSize=25&fontColor=11111B" />
+  <img height=50 src="https://capsule-render.vercel.app/api?type=transparent&height=50&color=8A88FF&text=👋%20Hi%2C%20I’m%20@AbsolutelyNotConspicuous.&reversal=false&animation=fadeIn&section=header&fontSize=25&fontColor=11111B&fontAlign=27" />
 </picture>
 
 A FOSS developer in my free time, I am an A Level Computer Science student in Southern England, This is my alternative account to store my more hobbyist projects. I love to program as I like to be able to problem solve and create high quality content that is complete. Here you'll see my experiments and full projects. Perhaps even new ideas implemented to the full extent. 
@@ -33,8 +33,28 @@ A FOSS developer in my free time, I am an A Level Computer Science student in So
  - 📈 Server Monitoring.
 
 ### 🏷 Where To Tag Me.
- - <a href='mailto:dominic.parry@hotmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/Email-100000?style=flat&logo=gmail&logoColor=FFFFFF&labelColor=11111b&color=11111b'/></a>
- - <a href='https://discord.com/users/991791436662046800' target="_blank"><img alt='discord' src='https://img.shields.io/badge/Discord%20%28web%29-100000?style=flat&logo=discord&logoColor=FFFFFF&labelColor=5865F2&color=5865F2'/></a>
+<!-- E9E9F1 -->
+<ul>
+  <li>
+    <a href='mailto:dominic.parry@hotmail.com' target="_blank">
+      <picture >
+        <source
+          srcset="https://img.shields.io/badge/Email-100000?style=flat&logo=gmail&logoColor=E9E9F1&labelColor=11111b&color=11111b"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://img.shields.io/badge/Email-100000?style=flat&logo=gmail&logoColor=11111b&labelColor=E9E9F1&color=E9E9F1"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img alt="Email" src="https://img.shields.io/badge/Email-100000?style=flat&logo=gmail&logoColor=11111b&labelColor=1111b&color=E9E9F1" />
+      </picture>
+    </a>
+  </li>
+  <li>
+    <a href='https://discord.com/users/991791436662046800' target="_blank"><img alt='discord' src='https://img.shields.io/badge/Discord%20%28web%29-100000?style=flat&logo=discord&logoColor=FFFFFF&labelColor=5865F2&color=5865F2'/></a>
+  </li>
+</ul>
+
 ---
 
 <picture >
