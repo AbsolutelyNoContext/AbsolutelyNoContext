@@ -29,8 +29,9 @@ A FOSS developer in my free time, I am an A Level Computer Science student in So
    - 💻 Tauri
 
 ### 🗒 Currently Working On.
- - 🔥 A new privacy friendly and cross platform mod manager.
- - 📈 Server Monitoring.
+ - 🔥 A new privacy friendly and cross platform mod manager. (Haitus Due To Technical Issues)
+ - 📈 Server Monitoring. (Implementing alongside Flick soon:tm:)
+ - 🤖 Discord Bot for security. (Flick)
 
 ### 🏷 Where To Tag Me.
 <!-- E9E9F1 -->
