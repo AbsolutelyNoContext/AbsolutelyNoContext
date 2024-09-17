@@ -21,10 +21,10 @@ A FOSS developer in my free time, I am an A Level Computer Science student in So
    - 📱 Android
  - Languages
    - 🗒 Rust
-   - 🗒 Nodejs, ECMAScript
+   - 🗒 Nodejs, ECMAScript, Typescript
    - 🌍 HTML, CSS
  - Frameworks
-   - 📦 Vite
+   - 📦 Vite (moving to Astro now :D)
    - 🌍 Fastify
    - 💻 Tauri
 
