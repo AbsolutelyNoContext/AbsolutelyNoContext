@@ -61,29 +61,29 @@ A FOSS developer in my free time, I am an A Level Computer Science student in So
 <picture >
   <source
     align="top"
-    srcset="https://github-readme-stats-absolutely-no-context.vercel.app/api?username=AbsolutelyNoContext&show_icons=true&theme=catppuccin_mocha&border_color=313244&border_radius=13"
+    srcset="https://github-readme-stats-absolutely-no-context.vercel.app/api?username=why-context&show_icons=true&theme=catppuccin_mocha&border_color=313244&border_radius=13"
     media="(prefers-color-scheme: dark)"
   />
   <source 
     align="top"
-    srcset="https://github-readme-stats-absolutely-no-context.vercel.app/api?username=AbsolutelyNoContext&show_icons=true&theme=catppuccin_latte&border_color=ccd0da&border_radius=13"
+    srcset="https://github-readme-stats-absolutely-no-context.vercel.app/api?username=why-context&show_icons=true&theme=catppuccin_latte&border_color=ccd0da&border_radius=13"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="center" src="https://github-readme-stats-absolutely-no-context.vercel.app/api?username=AbsolutelyNotConspicuous&show_icons=true&theme=catppuccin_latte&border_color=ccd0da&border_radius=13" />
+  <img align="center" src="https://github-readme-stats-absolutely-no-context.vercel.app/api?username=why-context&show_icons=true&theme=catppuccin_latte&border_color=ccd0da&border_radius=13" />
 </picture>
 
 <picture >
   <source
     align="top"
-    srcset="https://github-readme-stats-absolutely-no-context.vercel.app/api/top-langs/?username=AbsolutelyNoContext&layout=compact&theme=catppuccin_mocha&border_color=313244&border_radius=13"
+    srcset="https://github-readme-stats-absolutely-no-context.vercel.app/api/top-langs/?username=why-context&layout=compact&theme=catppuccin_mocha&border_color=313244&border_radius=13"
     media="(prefers-color-scheme: dark)"
   />
   <source
     align="top"
-    srcset="https://github-readme-stats-absolutely-no-context.vercel.app/api/top-langs/?username=AbsolutelyNoContext&layout=compact&theme=catppuccin_latte&border_color=ccd0da&border_radius=13"
+    srcset="https://github-readme-stats-absolutely-no-context.vercel.app/api/top-langs/?username=why-context&layout=compact&theme=catppuccin_latte&border_color=ccd0da&border_radius=13"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="top" src="https://github-readme-stats-absolutely-no-context.vercel.app/api/top-langs/?username=AbsolutelyNoContext&layout=compact&theme=catppuccin_latte&border_color=ccd0da&border_radius=13" />
+  <img align="top" src="https://github-readme-stats-absolutely-no-context.vercel.app/api/top-langs/?username=why-context&layout=compact&theme=catppuccin_latte&border_color=ccd0da&border_radius=13" />
 </picture>
 
 ---
